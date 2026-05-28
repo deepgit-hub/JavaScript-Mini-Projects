@@ -2,6 +2,11 @@
 
 A simple and interactive Guess The Number game built using **HTML, CSS, and JavaScript**.
 
+## 🌐 Live Demo
+
+🔗 Play the Game Here:  
+https://deepgit-hub.github.io/JavaScript-Mini-Project-1/
+
 ## 🚀 Project Overview
 
 In this game:
@@ -11,6 +16,7 @@ In this game:
 - If the guess is correct, the player wins 🎉
 
 ---
+
 
 ## 🛠️ Technologies Used
 
